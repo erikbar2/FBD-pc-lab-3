@@ -79,9 +79,3 @@ Key Python packages used in the notebook include:
 - `nltk`, `gensim`, `wordcloud`
 - `ekphrasis`
 - `transformers`, `torch`, `sklearn`
-
-
-## Acknowledgements
-
-This project was developed as part of the **Finance with Big Data (20598)** course at **Bocconi University**, instructed by **Clément Mazet-Sonilhac**.  
-All data and assignment materials were provided for educational purposes.
