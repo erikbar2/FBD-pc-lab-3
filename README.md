@@ -2,11 +2,7 @@ The compressed tweet_data.csv file may be downloaded at https://drive.google.com
 
 ## Overview
 
-This repository contains my work for **PC Lab #3: Creating a Factor from Text Data** as part of the *Finance with Big Data* course (Week 4).  
 The goal of the lab was to use **financial tweets** to explore the predictive power of social media for stock markets. The tasks included text preprocessing, sentiment analysis, and the creation of a firm-level measure of media attention that could serve as a potential financial factor.
-
-The project was completed in a Jupyter Notebook (`PCLab#3.ipynb`) following the instructions provided in the lecture slides (`FBD_Week4_PCLab3_2025.pdf`).
-
 
 ## Objectives
 
